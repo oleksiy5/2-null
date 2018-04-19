@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\2-null\ProjNull\ProjNull\bin\Debug\ProjNull.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\2-null\ProjNull\ProjNull\bin\Debug\ProjNull.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\2-null\ProjNull\ProjNull\bin\Debug\ProjNull.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\2-null\ProjNull\ProjNull\obj\Debug\ProjNull.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\2-null\ProjNull\ProjNull\obj\Debug\ProjNull.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\2-null\ProjNull\ProjNull\obj\Debug\ProjNull.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\2-null\ProjNull\ProjNull\obj\Debug\ProjNull.pdb
